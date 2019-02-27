@@ -1,0 +1,19 @@
+{
+  "main.css": "/portfolio/static/css/main.125720a7.chunk.css",
+  "main.js": "/portfolio/static/js/main.aeeff3f3.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.aeeff3f3.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.0fad4c0f.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.0fad4c0f.js.map",
+  "static/js/2.4f44c771.chunk.js": "/portfolio/static/js/2.4f44c771.chunk.js",
+  "static/js/2.4f44c771.chunk.js.map": "/portfolio/static/js/2.4f44c771.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.62efd2a59fd612770b8ec4e836e2e12e.js": "/portfolio/precache-manifest.62efd2a59fd612770b8ec4e836e2e12e.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/main.125720a7.chunk.css.map": "/portfolio/static/css/main.125720a7.chunk.css.map",
+  "static/media/devDuelProject.png": "/portfolio/static/media/devDuelProject.86c706ed.png",
+  "static/media/javascriptQuizCli.png": "/portfolio/static/media/javascriptQuizCli.cf0a2bff.png",
+  "static/media/twitchProject.png": "/portfolio/static/media/twitchProject.a21b8af2.png",
+  "static/media/twitterProject.png": "/portfolio/static/media/twitterProject.3119e4aa.png",
+  "static/media/wikiViewerProject.png": "/portfolio/static/media/wikiViewerProject.ca473050.png",
+  "static/media/xmlJAXBProject.png": "/portfolio/static/media/xmlJAXBProject.7aa713a5.png"
+}
