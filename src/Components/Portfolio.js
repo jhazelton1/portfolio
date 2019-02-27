@@ -10,8 +10,12 @@ const Div = styled.div`
 `
 const Row = styled.div`
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
+
+  @media (min-width: 800px) {
+    flex-direction: row;
+  }
 `
 
 class Portfolio extends Component {
