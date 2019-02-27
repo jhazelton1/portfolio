@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "a21b8af24f37e1bd67a9c53baabcf8ab",
-    "url": "/portfolio/static/media/twitchProject.a21b8af2.png"
+    "revision": "3149827b74839eabc68bd073431d7fae",
+    "url": "/portfolio/static/media/spotify.3149827b.jpg"
   },
   {
-    "revision": "aeeff3f3359df8b6e2a6",
+    "revision": "f7ab5a791a6dd3be7614",
     "url": "/portfolio/static/css/main.125720a7.chunk.css"
   },
   {
@@ -12,16 +12,20 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/runtime~main.0fad4c0f.js"
   },
   {
-    "revision": "4f44c771c1c79f2600fb",
-    "url": "/portfolio/static/js/2.4f44c771.chunk.js"
+    "revision": "7cc47b56d1f946488ffd",
+    "url": "/portfolio/static/js/2.7cc47b56.chunk.js"
+  },
+  {
+    "revision": "35602c79692bc35178a57b749ef60d62",
+    "url": "/portfolio/static/media/headshot.35602c79.jpeg"
   },
   {
     "revision": "86c706edfb3319d0401f4a12338d6825",
     "url": "/portfolio/static/media/devDuelProject.86c706ed.png"
   },
   {
-    "revision": "aeeff3f3359df8b6e2a6",
-    "url": "/portfolio/static/js/main.aeeff3f3.chunk.js"
+    "revision": "f7ab5a791a6dd3be7614",
+    "url": "/portfolio/static/js/main.f7ab5a79.chunk.js"
   },
   {
     "revision": "cf0a2bff38973d52c25c70f3a9ee8423",
@@ -40,7 +44,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/wikiViewerProject.ca473050.png"
   },
   {
-    "revision": "9291291d0af4c373ac1c33562757b0a7",
+    "revision": "37ac7da6faf3d57fc67f807def6f3f23",
     "url": "/portfolio/index.html"
   }
 ];
