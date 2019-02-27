@@ -13,7 +13,7 @@ const Div = styled.div`
   min-height: 100vh;
 `
 const Technology = styled.h1`
-  font-size: calc(4vw + 2px);
+  font-size: calc(3vw + 2px);
 `
 
 const ContentRow = styled.div`
@@ -38,7 +38,7 @@ const ContentRowContent = styled.p`
 `
 
 const ContentRowIcon = styled(FontAwesomeIcon)`
-  font-size: calc(8vw + 4px);
+  font-size: calc(6vw + 2px);
 `
 
 class Tech extends Component {

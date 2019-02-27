@@ -22,14 +22,14 @@ class Portfolio extends Component {
         <h2>Old Portfolio... New Work Coming Soon</h2>
         <Row>
           <Card
-            href='https://github.com/cooksystemsinc/js-assessment-dev-duel-jhazelton1'
+            href='https://github.com/jhazelton1/dev-duel'
             src={require('../Images/devDuelProject.png')}
             text='Dev Duel'
           />
           <Card
-            href='https://codepen.io/jhazelton1/full/NypLmq/'
-            src={require('../Images/twitchProject.png')}
-            text='Twitch API'
+            href='https://github.com/jhazelton1/whos-who'
+            src={require('../Images/spotify.jpg')}
+            text="Who's Who Spotify API"
           />
           <Card
             href='https://github.com/jhazelton1/js-assignment-quizler-jhazelton1'
@@ -40,7 +40,7 @@ class Portfolio extends Component {
         <Row>
           <Card
             src={require('../Images/twitterProject.png')}
-            href='https://github.com/cooksystemsinc/social-media-assessment-jhazelton1'
+            href='https://github.com/jhazelton1/social-media-assessment-jhazelton1'
             text='Spring Social Media Clone'
           />
           <Card

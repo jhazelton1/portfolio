@@ -8,7 +8,7 @@ class App extends Component {
       <div className='App'>
         <div className='content'>
           <Home
-            src={'https://picsum.photos/200/200/?random'}
+            src={require('./Images/headshot.jpeg')}
             name={'Jacob Hazelton'}
             title={'Software Developer'}
           />
