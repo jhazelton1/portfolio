@@ -11,6 +11,12 @@ const Div = styled.div`
   background-color: aliceblue;
 `
 
+const Paragraph = styled.div`
+  display: flex;
+  margin: 5vmin;
+  text-align: center;
+`
+
 const AllListWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -46,6 +52,17 @@ class About extends Component {
     return (
       <Div>
         <Aboot>About</Aboot>
+        <Paragraph>
+          <p>
+            Prior to becoming a programmer, I taught English three years abroad
+            in South Korea. Wanting a career change and having been always
+            interested in tech, I moved back to America to pursue a career in
+            Software Development. I thoroughly enjoy software development full
+            time and as a hobby as well. As my experience and learning mainly
+            focused on programming individual pieces, recently I have focused on
+            the broader architecture and SDLC methodologies as a whole.{' '}
+          </p>
+        </Paragraph>
         <AllListWrapper>
           <ListWrapper>
             <ULTitle>Enjoys:</ULTitle>
